@@ -52,10 +52,10 @@ export default {
   background-color: #fcf8e3; 
 }
 .pending-status{
-  background-color: #007bff;
+  background-color: #f4cccc;
 }
 .not-started-status{
-  background-color: #6c757d;
+  background-color: #ffe599;
 }
 
 /* Add more styles as needed */
